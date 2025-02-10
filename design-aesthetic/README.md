@@ -4,6 +4,7 @@ A lot of companies talk about missions of innovation but are mired in how much w
 
 * Apple during Jobs' second term
 * Sony Aibo and [Clie](https://en.wikipedia.org/wiki/CLI%C3%89)
+* Driver for the latter are [here](https://www.sonyclie.org)
 
 ### The aesthetics
 
