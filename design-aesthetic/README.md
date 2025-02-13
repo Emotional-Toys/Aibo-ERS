@@ -8,7 +8,7 @@ A lot of companies talk about missions of innovation but are mired in how much w
 
 ### The aesthetics
 
-There is the engineering beauty of the ERS-7
+There is the engineering beauty of the ERS-7.
 
 ![ers-7](/img/ers-7-snip.jpg)
 
