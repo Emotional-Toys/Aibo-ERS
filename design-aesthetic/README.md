@@ -15,3 +15,7 @@ There is the engineering beauty of the ERS-7.
 And the amazing feature of a sliding volume control on a pair of headphones for the Clie
 
 ![radar](/img/clie-snip.jpg)
+
+### Challenges
+
+To get the notion of Aperios and Open-R sorted, as it is what I need.
