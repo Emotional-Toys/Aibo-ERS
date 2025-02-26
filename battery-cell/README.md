@@ -96,9 +96,15 @@ Special thanks go to the following people:
 - https://github.com/AndreasVan - for his battery reader project and wiring schematic/pinout
 - https://github.com/lpollier - for reverse engineering the ERS-2xx battery pack and giving me the idea to actually start this project in the first place
 
-## License
+## Errata
 
-This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+Sizes of cells for the battery packs:
 
-![enter image description here](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
+* The 2x0 battery contains 4 18500 flat top cells with diameter of 18,3mm and a length of 49mm. 
+* The 31x/7 batteries contains 2 18650 flat top cells with diameter of 18,3mm and a length of 65mm.
 
+We are searching for someone who can make replacement boards for these Aibo models, perfect would be a board which works for all models
+
+Do you need the specifications of the original boards?
+
+The 2x0 boards work with the BQ2040 and the 31x/7 with the BQ2060
