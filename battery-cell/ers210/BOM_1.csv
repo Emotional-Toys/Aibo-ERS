@@ -1,0 +1,19 @@
+ID,Name,Designator,Footprint,Quantity,Note,Purchase link
+1,0.1uF,"C1,C8,C9,C10,C11,C12",C0402,6,25V,https://si.farnell.com/samsung-electro-mechanics/cl05a104ka5nnnc/cap-0-1uf-25v-mlcc-0402/dp/3013323
+2,0.47uF,"C2,C3,C4,C5",C0402,4,25V,https://si.farnell.com/tdk/c1005x5r1v474k050bc/cap-0-47uf-35v-mlcc-0402/dp/3650965
+4,0.01uF,"C6,C7,C13",C0402,3,50V,https://si.farnell.com/samsung-electro-mechanics/cl05b103kb5nnnc/cap-0-01uf-50v-mlcc-0402/dp/3013345
+6,SD101CWS-7-F,D1,SOD-323,1,,https://si.farnell.com/diodes-inc/sd101cws-7-f/diode-schottky-40v-0-2w-sod323/dp/1773498
+7,SD103BWS,D2,SOD-323,1,,https://si.farnell.com/diodes-inc/sd103bwsq-7-f/schottky-diode-30v-0-35a-sod-323/dp/3589350
+8,"BZT52H-B5V6,115","D3,D4",SOD-123F,2,,https://si.farnell.com/nexperia/bzt52h-b5v6-115/diode-zener-0-375w-5-6v-sod123f/dp/2069447
+9,IRF7490TRPBF,"Q1,Q2",SOIC,2,,https://si.farnell.com/infineon/irf7490trpbf/mosfet-n-ch-100v-5-4a-soic-8/dp/2803412
+10,2N7002,Q3,SOT-23-3,1,,https://si.farnell.com/nexperia/2n7002nxbkr/mosfet-n-ch-60v-0-27a-sot-23/dp/3226401
+11,0.005,R1,R1206,1,,https://si.farnell.com/tt-electronics-welwyn/mfc1206-r005ft5/current-sense-res-aec-q200-0r005/dp/3782210
+12,10,R2,R0402,1,,https://si.farnell.com/koa-speer-electronics/rk73b1ettp100j/res-10r-5-0-1w-0402/dp/3537746
+13,10k,"R3,R10",R0402,2,,https://si.farnell.com/yageo/rc0402jr-0710kl/res-10k-5-0-0625w-0402-thick-film/dp/9232885
+14,49.9,"R4,R5",R0805,2,,https://si.farnell.com/vishay/crcw080549r9fkea/res-49r9-1-0-125w-0805-thick-film/dp/1469935
+15,2k,R6,R1206,1,0.25W,https://si.farnell.com/vishay/rcc12062k00fkea/res-2k-1-0-5w-1206-thick-film/dp/3755564
+16,1k,"R7,R11",R0402,2,,https://si.farnell.com/yageo/rc0402jr-071kl/res-1k-5-0-0625w-0402-thick-film/dp/9232761
+17,100,"R8,R9",R0402,2,,https://si.farnell.com/yageo/rc0402jr-07100rl/res-100r-5-0-063w-0402-thick-film/dp/9232648
+18,NTC 100k,"R12,R13",R0805,2,NOT USED,https://si.farnell.com/epcos/b57164k0104j000/thermistor-ntc/dp/9753443
+19,MAX17320G20+,U1,QFN-24,1,,https://si.farnell.com/maxim-integrated-products/max17320g20/batt-fuel-gauge-i2c-40-to-85deg/dp/3501910
+20,Laptop battery connector,U2,"6 PIN, 2.5mm",1,Generic,https://www.aliexpress.com/item/32894485710.html
