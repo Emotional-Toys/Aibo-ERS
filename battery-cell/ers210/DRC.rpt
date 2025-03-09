@@ -1,0 +1,618 @@
+** Drc report for PCB_ERS_210.kicad_pcb **
+** Created on 2025-02-26T12:30:11+0100 **
+
+** Found 154 DRC violations **
+[via_dangling]: Via is not connected or connected on only one layer
+    Local override; warning
+    @(57.8610 mm, 156.5100 mm): Via [OUT_BATTP] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    Local override; warning
+    @(57.2260 mm, 156.1290 mm): Via [OUT_BATTP] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    Local override; warning
+    @(61.0870 mm, 159.2100 mm): Via [OUT_BATTP] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    Local override; warning
+    @(57.8610 mm, 155.6210 mm): Via [OUT_BATTP] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    Local override; warning
+    @(58.4960 mm, 156.2560 mm): Via [OUT_BATTP] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    Local override; warning
+    @(56.0870 mm, 159.2100 mm): Via [SDA] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    Local override; warning
+    @(58.5870 mm, 159.2100 mm): Via [SCL] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    Local override; warning
+    @(51.0870 mm, 159.2100 mm): Via [TH_E] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    Local override; warning
+    @(53.5870 mm, 159.2100 mm): Via [U2_4] on F.Cu - B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1930 mm)
+    Rule: netclass 'Default'; error
+    @(35.6540 mm, 152.7810 mm): Track [U1_21] on B.Cu, length 5.6210 mm
+    @(36.6560 mm, 152.0830 mm): Via [BATTN] on F.Cu - B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1930 mm)
+    Rule: netclass 'Default'; error
+    @(36.0680 mm, 154.5590 mm): Via [BATTN] on F.Cu - B.Cu
+    @(35.4700 mm, 154.2910 mm): Track [U1_1] on F.Cu, length 1.4110 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1810 mm)
+    Rule: netclass 'Default'; error
+    @(41.6560 mm, 153.2890 mm): Track [TH1] on F.Cu, length 0.3592 mm
+    @(41.6560 mm, 153.9240 mm): Track [SDA] on F.Cu, length 3.1750 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1530 mm)
+    Rule: netclass 'Default'; error
+    @(41.0490 mm, 151.4120 mm): Track [TH1] on F.Cu, length 0.6350 mm
+    @(41.4020 mm, 151.8170 mm): Track [PFAIL] on F.Cu, length 1.3633 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1810 mm)
+    Rule: netclass 'Default'; error
+    @(44.5770 mm, 153.5430 mm): Track [TH1] on F.Cu, length 2.5145 mm
+    @(41.6560 mm, 153.9240 mm): Track [SDA] on F.Cu, length 3.1750 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1810 mm)
+    Rule: netclass 'Default'; error
+    @(41.4020 mm, 154.3050 mm): Track [SCL] on F.Cu, length 3.6830 mm
+    @(44.8310 mm, 153.9240 mm): Track [SDA] on F.Cu, length 2.3349 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1592 mm)
+    Rule: netclass 'Default'; error
+    @(41.0490 mm, 152.0470 mm): Track [TH1] on F.Cu, length 0.8584 mm
+    @(40.2540 mm, 151.7600 mm): Track [SDA] on F.Cu, length 1.2643 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1810 mm)
+    Rule: netclass 'Default'; error
+    @(41.9100 mm, 153.5430 mm): Track [TH1] on F.Cu, length 2.6670 mm
+    @(41.6560 mm, 153.9240 mm): Track [SDA] on F.Cu, length 3.1750 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1530 mm)
+    Rule: netclass 'Default'; error
+    @(40.8990 mm, 151.2620 mm): Track [TH1] on F.Cu, length 0.2121 mm
+    @(41.4020 mm, 151.0030 mm): Track [PFAIL] on F.Cu, length 0.8140 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1971 mm)
+    Rule: netclass 'Default'; error
+    @(37.8410 mm, 153.4190 mm): Track [DIS] on F.Cu, length 0.6320 mm
+    @(38.3420 mm, 153.4190 mm): Track [U1_5] on F.Cu, length 0.4930 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1700 mm)
+    Rule: netclass 'Default'; error
+    @(37.8460 mm, 154.0510 mm): Track [DIS] on F.Cu, length 0.9919 mm
+    @(38.3420 mm, 153.4190 mm): Track [U1_5] on F.Cu, length 0.4930 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1592 mm)
+    Rule: netclass 'Default'; error
+    @(34.5440 mm, 148.5900 mm): Track [BATTNK] on F.Cu, length 16.5100 mm
+    @(17.9070 mm, 148.2090 mm): Track [OUT_BATTNK] on F.Cu, length 2.1553 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1680 mm)
+    Rule: netclass 'Default'; error
+    @(38.3420 mm, 153.9120 mm): Track [U1_5] on F.Cu, length 0.5558 mm
+    @(38.8420 mm, 153.4190 mm): Pad 6 [PCKP] of U1 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1810 mm)
+    Rule: netclass 'Default'; error
+    @(30.2260 mm, 148.2090 mm): Track [OUT_BATTNK] on F.Cu, length 12.3190 mm
+    @(18.0340 mm, 148.5900 mm): Track [BATTNK] on F.Cu, length 2.1553 mm
+[shorting_items]: Items shorting two nets (nets BATTNK and BATTN)
+    Local override; error
+    @(14.9860 mm, 150.4950 mm): Track [BATTNK] on F.Cu, length 0.9700 mm
+    @(14.9860 mm, 151.4660 mm): Pad 2 [BATTN] of R1 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1810 mm)
+    Rule: netclass 'Default'; error
+    @(15.3670 mm, 149.7330 mm): Track [OUT_BATTNK] on F.Cu, length 0.5388 mm
+    @(15.3670 mm, 150.1140 mm): Track [BATTNK] on F.Cu, length 0.5388 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1600 mm)
+    Rule: netclass 'Default'; error
+    @(38.3420 mm, 153.4190 mm): Track [U1_5] on F.Cu, length 0.4930 mm
+    @(38.8420 mm, 153.4190 mm): Pad 6 [PCKP] of U1 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1810 mm)
+    Rule: netclass 'Default'; error
+    @(37.9730 mm, 148.2090 mm): Track [OUT_BATTNK] on F.Cu, length 7.7470 mm
+    @(34.5440 mm, 148.5900 mm): Track [BATTNK] on F.Cu, length 16.5100 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1810 mm)
+    Rule: netclass 'Default'; error
+    @(37.8420 mm, 148.8400 mm): Track [BATTNK] on F.Cu, length 0.3536 mm
+    @(37.9730 mm, 148.2090 mm): Track [OUT_BATTNK] on F.Cu, length 7.7470 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1592 mm)
+    Rule: netclass 'Default'; error
+    @(16.3830 mm, 149.7330 mm): Track [OUT_BATTNK] on F.Cu, length 1.0160 mm
+    @(18.0340 mm, 148.5900 mm): Track [BATTNK] on F.Cu, length 2.1553 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1810 mm)
+    Rule: netclass 'Default'; error
+    @(37.5920 mm, 148.5900 mm): Track [BATTNK] on F.Cu, length 3.0480 mm
+    @(37.9730 mm, 148.2090 mm): Track [OUT_BATTNK] on F.Cu, length 7.7470 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1810 mm)
+    Rule: netclass 'Default'; error
+    @(15.3670 mm, 150.1140 mm): Track [BATTNK] on F.Cu, length 0.5388 mm
+    @(16.3830 mm, 149.7330 mm): Track [OUT_BATTNK] on F.Cu, length 1.0160 mm
+[shorting_items]: Items shorting two nets (nets OUT_BATTNK and OUT_BATTN)
+    Local override; error
+    @(14.9860 mm, 149.3520 mm): Track [OUT_BATTNK] on F.Cu, length 0.8430 mm
+    @(14.9860 mm, 148.5080 mm): Pad 1 [OUT_BATTN] of R1 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1810 mm)
+    Rule: netclass 'Default'; error
+    @(16.5100 mm, 150.1140 mm): Track [BATTNK] on F.Cu, length 1.1430 mm
+    @(17.9070 mm, 148.2090 mm): Track [OUT_BATTNK] on F.Cu, length 2.1553 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1592 mm)
+    Rule: netclass 'Default'; error
+    @(18.0340 mm, 148.5900 mm): Track [BATTNK] on F.Cu, length 2.1553 mm
+    @(17.9070 mm, 148.2090 mm): Track [OUT_BATTNK] on F.Cu, length 2.1553 mm
+[shorting_items]: Items shorting two nets (nets OUT_BATTNK and OUT_BATTN)
+    Local override; error
+    @(15.8750 mm, 147.9550 mm): Via [OUT_BATTNK] on F.Cu - B.Cu
+    @(14.9860 mm, 148.5080 mm): Pad 1 [OUT_BATTN] of R1 on F.Cu
+[shorting_items]: Items shorting two nets (nets OUT_BATTNK and OUT_BATTN)
+    Local override; error
+    @(15.8750 mm, 147.9550 mm): Via [OUT_BATTNK] on F.Cu - B.Cu
+    @(15.1790 mm, 148.6970 mm): Track [OUT_BATTN] on B.Cu, length 20.2340 mm
+[shorting_items]: Items shorting two nets (nets OUT_BATTNK and OUT_BATTN)
+    Local override; error
+    @(15.1870 mm, 147.9550 mm): Via [OUT_BATTNK] on F.Cu - B.Cu
+    @(14.9860 mm, 148.5080 mm): Pad 1 [OUT_BATTN] of R1 on F.Cu
+[shorting_items]: Items shorting two nets (nets OUT_BATTNK and OUT_BATTN)
+    Local override; error
+    @(15.1870 mm, 147.9550 mm): Via [OUT_BATTNK] on F.Cu - B.Cu
+    @(15.1790 mm, 148.6970 mm): Track [OUT_BATTN] on B.Cu, length 20.2340 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0910 mm)
+    Rule: netclass 'Default'; error
+    @(15.1790 mm, 148.6960 mm): Via [OUT_BATTNK] on F.Cu - B.Cu
+    @(14.9860 mm, 148.5080 mm): Pad 1 [OUT_BATTN] of R1 on F.Cu
+[shorting_items]: Items shorting two nets (nets OUT_BATTNK and OUT_BATTN)
+    Local override; error
+    @(15.1790 mm, 148.6960 mm): Via [OUT_BATTNK] on F.Cu - B.Cu
+    @(15.1790 mm, 148.6970 mm): Track [OUT_BATTN] on B.Cu, length 20.2340 mm
+[shorting_items]: Items shorting two nets (nets OUT_BATTNK and OUT_BATTN)
+    Local override; error
+    @(14.4880 mm, 147.9410 mm): Via [OUT_BATTNK] on F.Cu - B.Cu
+    @(14.9860 mm, 148.5080 mm): Pad 1 [OUT_BATTN] of R1 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1592 mm)
+    Rule: netclass 'Default'; error
+    @(40.2540 mm, 151.7600 mm): Track [SDA] on F.Cu, length 1.2643 mm
+    @(41.0490 mm, 151.4120 mm): Track [TH1] on F.Cu, length 0.6350 mm
+[shorting_items]: Items shorting two nets (nets OUT_BATTNK and OUT_BATTN)
+    Local override; error
+    @(14.4880 mm, 147.9410 mm): Via [OUT_BATTNK] on F.Cu - B.Cu
+    @(15.1790 mm, 148.6970 mm): Track [OUT_BATTN] on B.Cu, length 20.2340 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0025 mm)
+    Rule: netclass 'Default'; error
+    @(14.4630 mm, 148.6950 mm): Via [OUT_BATTNK] on F.Cu - B.Cu
+    @(14.9860 mm, 148.5080 mm): Pad 1 [OUT_BATTN] of R1 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1810 mm)
+    Rule: netclass 'Default'; error
+    @(41.1480 mm, 153.4160 mm): Track [SDA] on F.Cu, length 0.7184 mm
+    @(41.4020 mm, 154.3050 mm): Track [SCL] on F.Cu, length 3.6830 mm
+[shorting_items]: Items shorting two nets (nets OUT_BATTNK and OUT_BATTN)
+    Local override; error
+    @(14.4630 mm, 148.6950 mm): Via [OUT_BATTNK] on F.Cu - B.Cu
+    @(15.1790 mm, 148.6970 mm): Track [OUT_BATTN] on B.Cu, length 20.2340 mm
+[shorting_items]: Items shorting two nets (nets OUT_BATTNK and OUT_BATTN)
+    Local override; error
+    @(15.8750 mm, 148.7170 mm): Via [OUT_BATTNK] on F.Cu - B.Cu
+    @(14.9860 mm, 148.5080 mm): Pad 1 [OUT_BATTN] of R1 on F.Cu
+[shorting_items]: Items shorting two nets (nets OUT_BATTNK and OUT_BATTN)
+    Local override; error
+    @(15.8750 mm, 148.7170 mm): Via [OUT_BATTNK] on F.Cu - B.Cu
+    @(15.1790 mm, 148.6970 mm): Track [OUT_BATTN] on B.Cu, length 20.2340 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1810 mm)
+    Rule: netclass 'Default'; error
+    @(41.6560 mm, 153.9240 mm): Track [SDA] on F.Cu, length 3.1750 mm
+    @(41.4020 mm, 154.3050 mm): Track [SCL] on F.Cu, length 3.6830 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1592 mm)
+    Rule: netclass 'Default'; error
+    @(41.1480 mm, 152.6540 mm): Track [SDA] on F.Cu, length 0.7620 mm
+    @(41.0490 mm, 152.0470 mm): Track [TH1] on F.Cu, length 0.8584 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1600 mm)
+    Rule: netclass 'Default'; error
+    @(35.6840 mm, 152.7610 mm): Track [U1_24] on F.Cu, length 0.8862 mm
+    @(35.6840 mm, 152.2610 mm): Pad 23 [U1_21] of U1 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1530 mm)
+    Rule: netclass 'Default'; error
+    @(41.4020 mm, 151.0030 mm): Track [PFAIL] on F.Cu, length 0.8140 mm
+    @(41.0490 mm, 151.4120 mm): Track [TH1] on F.Cu, length 0.6350 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1540 mm)
+    Rule: netclass 'Default'; error
+    @(36.6760 mm, 148.9440 mm): Track [U1_17] on F.Cu, length 2.5760 mm
+    @(34.5440 mm, 148.5900 mm): Track [BATTNK] on F.Cu, length 16.5100 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1540 mm)
+    Rule: netclass 'Default'; error
+    @(34.1000 mm, 148.9440 mm): Track [U1_17] on F.Cu, length 0.9362 mm
+    @(34.5440 mm, 148.5900 mm): Track [BATTNK] on F.Cu, length 16.5100 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1540 mm)
+    Rule: netclass 'Default'; error
+    @(36.8420 mm, 149.1100 mm): Track [U1_17] on F.Cu, length 0.2348 mm
+    @(37.5920 mm, 148.5900 mm): Track [BATTNK] on F.Cu, length 3.0480 mm
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.2500 mm; actual 0.0000 mm)
+    Rule: board setup constraints hole; error
+    @(14.9860 mm, 148.5080 mm): Pad 1 [OUT_BATTN] of R1 on F.Cu
+    @(15.8750 mm, 148.7170 mm): Via [OUT_BATTNK] on F.Cu - B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.2500 mm; actual 0.0000 mm)
+    Rule: board setup constraints hole; error
+    @(14.9860 mm, 148.5080 mm): Pad 1 [OUT_BATTN] of R1 on F.Cu
+    @(15.8750 mm, 147.9550 mm): Via [OUT_BATTNK] on F.Cu - B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.2500 mm; actual 0.0000 mm)
+    Rule: board setup constraints hole; error
+    @(14.9860 mm, 148.5080 mm): Pad 1 [OUT_BATTN] of R1 on F.Cu
+    @(15.1870 mm, 147.9550 mm): Via [OUT_BATTNK] on F.Cu - B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.2500 mm; actual 0.0000 mm)
+    Rule: board setup constraints hole; error
+    @(14.9860 mm, 148.5080 mm): Pad 1 [OUT_BATTN] of R1 on F.Cu
+    @(15.1790 mm, 148.6960 mm): Via [OUT_BATTNK] on F.Cu - B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.2500 mm; actual 0.0000 mm)
+    Rule: board setup constraints hole; error
+    @(14.9860 mm, 148.5080 mm): Pad 1 [OUT_BATTN] of R1 on F.Cu
+    @(14.4880 mm, 147.9410 mm): Via [OUT_BATTNK] on F.Cu - B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.2500 mm; actual 0.0000 mm)
+    Rule: board setup constraints hole; error
+    @(14.9860 mm, 148.5080 mm): Pad 1 [OUT_BATTN] of R1 on F.Cu
+    @(14.4630 mm, 148.6950 mm): Via [OUT_BATTNK] on F.Cu - B.Cu
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(3.0800 mm, 146.8120 mm): Segment on Edge.Cuts
+    @(4.5720 mm, 160.4010 mm): PCB Text 'Aibo 2xx batt v1.0' on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(3.0800 mm, 146.8120 mm): Segment on Edge.Cuts
+    @(51.0540 mm, 149.4790 mm): Reference 'TH1'
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(45.7200 mm, 159.1310 mm): Via [OUT_BATTP] on F.Cu - B.Cu
+    @(45.7200 mm, 159.1310 mm): Via [OUT_BATTP] on F.Cu - B.Cu
+[lib_footprint_issues]: The current configuration does not include the library 'easyeda'.
+    Local override; warning
+    @(33.4010 mm, 159.7660 mm): Footprint R10
+[lib_footprint_issues]: The current configuration does not include the library 'easyeda'.
+    Local override; warning
+    @(55.1180 mm, 152.4000 mm): Footprint D4
+[lib_footprint_issues]: The current configuration does not include the library 'easyeda'.
+    Local override; warning
+    @(62.6110 mm, 156.8450 mm): Footprint C11
+[lib_footprint_issues]: The current configuration does not include the library 'easyeda'.
+    Local override; warning
+    @(37.5920 mm, 151.5110 mm): Footprint U1
+[lib_footprint_issues]: The current configuration does not include the library 'easyeda'.
+    Local override; warning
+    @(42.9260 mm, 151.3840 mm): Footprint C5
+[lib_footprint_issues]: The current configuration does not include the library 'easyeda'.
+    Local override; warning
+    @(32.8930 mm, 152.4000 mm): Footprint C7
+[lib_footprint_issues]: The current configuration does not include the library 'easyeda'.
+    Local override; warning
+    @(41.5290 mm, 159.6390 mm): Footprint D1
+[lib_footprint_issues]: The current configuration does not include the library 'easyeda'.
+    Local override; warning
+    @(18.1610 mm, 152.7810 mm): Footprint C8
+[lib_footprint_issues]: The current configuration does not include the library 'easyeda'.
+    Local override; warning
+    @(32.8930 mm, 149.6060 mm): Footprint C4
+[lib_footprint_issues]: The current configuration does not include the library 'easyeda'.
+    Local override; warning
+    @(32.8930 mm, 151.0030 mm): Footprint C6
+[lib_footprint_issues]: The current configuration does not include the library 'easyeda'.
+    Local override; warning
+    @(8.7630 mm, 150.6220 mm): Footprint B-
+[lib_footprint_issues]: The current configuration does not include the library 'easyeda'.
+    Local override; warning
+    @(14.9860 mm, 149.9870 mm): Footprint R1
+[lib_footprint_issues]: The current configuration does not include the library 'easyeda'.
+    Local override; warning
+    @(42.2910 mm, 149.9870 mm): Footprint R3
+[lib_footprint_issues]: The current configuration does not include the library 'easyeda'.
+    Local override; warning
+    @(47.8790 mm, 148.2090 mm): Footprint TH1
+[lib_footprint_issues]: The current configuration does not include the library 'easyeda'.
+    Local override; warning
+    @(22.7330 mm, 152.7810 mm): Footprint C10
+[lib_footprint_issues]: The current configuration does not include the library 'easyeda'.
+    Local override; warning
+    @(21.3360 mm, 152.7810 mm): Footprint C9
+[lib_footprint_issues]: The current configuration does not include the library 'easyeda'.
+    Local override; warning
+    @(34.9250 mm, 155.7020 mm): Footprint C1
+[lib_footprint_issues]: The current configuration does not include the library 'easyeda'.
+    Local override; warning
+    @(62.6110 mm, 155.3210 mm): Footprint C12
+[lib_footprint_issues]: The current configuration does not include the library 'easyeda'.
+    Local override; warning
+    @(19.5580 mm, 152.9080 mm): Footprint R8
+[lib_footprint_issues]: The current configuration does not include the library 'easyeda'.
+    Local override; warning
+    @(42.7990 mm, 152.7810 mm): Footprint R7
+[lib_footprint_issues]: The current configuration does not include the library 'easyeda'.
+    Local override; warning
+    @(41.6560 mm, 156.7180 mm): Footprint C13
+[lib_footprint_issues]: The current configuration does not include the library 'easyeda'.
+    Local override; warning
+    @(53.4670 mm, 148.2090 mm): Footprint THE
+[lib_footprint_issues]: The current configuration does not include the library 'easyeda'.
+    Local override; warning
+    @(8.6360 mm, 156.9720 mm): Footprint B+
+[lib_footprint_issues]: The current configuration does not include the library 'easyeda'.
+    Local override; warning
+    @(33.9090 mm, 154.4320 mm): Footprint R2
+[lib_footprint_issues]: The current configuration does not include the library 'easyeda'.
+    Local override; warning
+    @(38.4810 mm, 155.8290 mm): Footprint R9
+[lib_footprint_issues]: The current configuration does not include the library 'easyeda'.
+    Local override; warning
+    @(41.5290 mm, 158.1150 mm): Footprint R11
+[lib_footprint_issues]: The current configuration does not include the library 'easyeda'.
+    Local override; warning
+    @(25.6540 mm, 157.2260 mm): Footprint Q2
+[lib_footprint_issues]: The current configuration does not include the library 'easyeda'.
+    Local override; warning
+    @(62.3570 mm, 149.4790 mm): Footprint BM
+[lib_footprint_issues]: The current configuration does not include the library 'easyeda'.
+    Local override; warning
+    @(62.6110 mm, 153.4160 mm): Footprint R4
+[lib_footprint_issues]: The current configuration does not include the library 'easyeda'.
+    Local override; warning
+    @(42.0370 mm, 148.7170 mm): Footprint C3
+[lib_footprint_issues]: The current configuration does not include the library 'easyeda'.
+    Local override; warning
+    @(36.9570 mm, 156.3370 mm): Footprint C2
+[lib_footprint_issues]: The current configuration does not include the library 'easyeda'.
+    Local override; warning
+    @(41.6560 mm, 155.0670 mm): Footprint D2
+[lib_footprint_issues]: The current configuration does not include the library 'easyeda'.
+    Local override; warning
+    @(27.1780 mm, 150.3680 mm): Footprint R5
+[lib_footprint_issues]: The current configuration does not include the library 'easyeda'.
+    Local override; warning
+    @(32.1310 mm, 157.0990 mm): Footprint Q3
+[lib_footprint_issues]: The current configuration does not include the library 'easyeda'.
+    Local override; warning
+    @(57.9120 mm, 154.3870 mm): Footprint R6
+[lib_footprint_issues]: The current configuration does not include the library 'easyeda'.
+    Local override; warning
+    @(17.2720 mm, 157.2260 mm): Footprint Q1
+[lib_footprint_issues]: The current configuration does not include the library 'easyeda'.
+    Local override; warning
+    @(52.5780 mm, 152.4000 mm): Footprint D3
+[starved_thermal]: Thermal relief connection to zone incomplete (layer F.Cu; zone min spoke count 2; actual 1)
+    Local override; error
+    @(65.0010 mm, 146.9170 mm): Zone [OUT_BATTN] on F.Cu
+    @(62.0660 mm, 155.3210 mm): Pad 2 [OUT_BATTN] of C12 on F.Cu
+[starved_thermal]: Thermal relief connection to zone incomplete (layer F.Cu; zone min spoke count 2; actual 1)
+    Local override; error
+    @(65.0010 mm, 146.9170 mm): Zone [OUT_BATTN] on F.Cu
+    @(42.2010 mm, 156.7180 mm): Pad 2 [OUT_BATTN] of C13 on F.Cu
+[starved_thermal]: Thermal relief connection to zone incomplete (layer F.Cu; zone min spoke count 2; actual 1)
+    Local override; error
+    @(3.1750 mm, 146.9390 mm): Zone [BATTN] on F.Cu
+    @(34.3800 mm, 155.7020 mm): Pad 2 [BATTN] of C1 on F.Cu
+[starved_thermal]: Thermal relief connection to zone incomplete (layer F.Cu; zone min spoke count 2; actual 1)
+    Local override; error
+    @(65.0010 mm, 146.9170 mm): Zone [OUT_BATTN] on F.Cu
+    @(42.8280 mm, 155.0670 mm): Pad 2 [OUT_BATTN] of D2 on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(5.7150 mm, 158.8770 mm): PCB Text 'www.r00li.com' on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(30.0990 mm, 160.2740 mm): Reference 'R10'
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(59.1820 mm, 157.3530 mm): Reference 'C11'
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(59.1820 mm, 155.8290 mm): Reference 'C12'
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(59.9440 mm, 149.0980 mm): Reference 'BM'
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(60.5790 mm, 153.4160 mm): Reference 'R4'
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(14.9860 mm, 150.4950 mm): Track [BATTNK] on F.Cu, length 0.9700 mm
+    @(14.9860 mm, 151.4660 mm): Pad 2 [BATTN] of R1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(14.9860 mm, 149.3520 mm): Track [OUT_BATTNK] on F.Cu, length 0.8430 mm
+    @(14.9860 mm, 148.5080 mm): Pad 1 [OUT_BATTN] of R1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(15.8750 mm, 147.9550 mm): Via [OUT_BATTNK] on F.Cu - B.Cu
+    @(14.9860 mm, 148.5080 mm): Pad 1 [OUT_BATTN] of R1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(15.1870 mm, 147.9550 mm): Via [OUT_BATTNK] on F.Cu - B.Cu
+    @(14.9860 mm, 148.5080 mm): Pad 1 [OUT_BATTN] of R1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(15.1790 mm, 148.6960 mm): Via [OUT_BATTNK] on F.Cu - B.Cu
+    @(14.9860 mm, 148.5080 mm): Pad 1 [OUT_BATTN] of R1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(14.4880 mm, 147.9410 mm): Via [OUT_BATTNK] on F.Cu - B.Cu
+    @(14.9860 mm, 148.5080 mm): Pad 1 [OUT_BATTN] of R1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(14.4630 mm, 148.6950 mm): Via [OUT_BATTNK] on F.Cu - B.Cu
+    @(14.9860 mm, 148.5080 mm): Pad 1 [OUT_BATTN] of R1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(15.8750 mm, 148.7170 mm): Via [OUT_BATTNK] on F.Cu - B.Cu
+    @(14.9860 mm, 148.5080 mm): Pad 1 [OUT_BATTN] of R1 on F.Cu
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(4.5720 mm, 160.4010 mm): PCB Text 'Aibo 2xx batt v1.0' on F.Silkscreen
+    @(5.7150 mm, 158.8770 mm): PCB Text 'www.r00li.com' on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(15.6720 mm, 159.6760 mm): Segment on F.Silkscreen
+    @(13.8430 mm, 154.1780 mm): Reference 'Q1'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(13.8430 mm, 154.1780 mm): Reference 'Q1'
+    @(13.7970 mm, 154.6210 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(15.6720 mm, 154.7760 mm): Segment on F.Silkscreen
+    @(13.8430 mm, 154.1780 mm): Reference 'Q1'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(29.8450 mm, 152.7810 mm): Reference 'C7'
+    @(31.7240 mm, 152.7460 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(29.8450 mm, 149.9870 mm): Reference 'C4'
+    @(31.8770 mm, 149.9520 mm): Arc on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(29.8450 mm, 149.9870 mm): Reference 'C4'
+    @(31.7240 mm, 149.9520 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(29.8450 mm, 149.9870 mm): Reference 'C4'
+    @(32.6670 mm, 150.1050 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(29.8450 mm, 151.3840 mm): Reference 'C6'
+    @(31.7240 mm, 151.3490 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(29.8450 mm, 151.3840 mm): Reference 'C6'
+    @(31.8770 mm, 151.3490 mm): Arc on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(25.5270 mm, 149.0980 mm): Reference 'R5'
+    @(26.7020 mm, 149.4510 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(23.8760 mm, 154.3050 mm): Reference 'Q2'
+    @(24.0540 mm, 154.7760 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(30.0990 mm, 160.2740 mm): Reference 'R10'
+    @(32.4570 mm, 159.2670 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(30.0990 mm, 160.2740 mm): Reference 'R10'
+    @(32.4570 mm, 160.2650 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(39.1160 mm, 158.7500 mm): Reference 'R9'
+    @(37.9820 mm, 156.7730 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(39.1160 mm, 158.7500 mm): Reference 'R9'
+    @(38.9800 mm, 156.7730 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(33.1470 mm, 158.8770 mm): Reference 'Q3'
+    @(33.6270 mm, 159.2670 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(34.3450 mm, 159.2670 mm): Segment on F.Silkscreen
+    @(33.1470 mm, 158.8770 mm): Reference 'Q3'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(43.9420 mm, 150.8850 mm): Segment on F.Silkscreen
+    @(43.6880 mm, 150.4950 mm): Reference 'R3'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(44.0950 mm, 151.7300 mm): Segment on F.Silkscreen
+    @(43.6880 mm, 150.4950 mm): Reference 'R3'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(43.9420 mm, 151.0380 mm): Arc on F.Silkscreen
+    @(43.6880 mm, 150.4950 mm): Reference 'R3'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(57.0230 mm, 151.7200 mm): Reference 'R6'
+    @(58.9910 mm, 152.0760 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(59.1820 mm, 157.3530 mm): Reference 'C11'
+    @(62.3850 mm, 157.3440 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(59.1820 mm, 157.3530 mm): Reference 'C11'
+    @(61.5950 mm, 157.1910 mm): Arc on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(59.1820 mm, 157.3530 mm): Reference 'C11'
+    @(61.4420 mm, 157.1910 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(61.5950 mm, 156.3460 mm): Segment on F.Silkscreen
+    @(59.1820 mm, 155.8290 mm): Reference 'C12'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(61.5950 mm, 156.4990 mm): Arc on F.Silkscreen
+    @(59.1820 mm, 155.8290 mm): Reference 'C12'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(59.1820 mm, 155.8290 mm): Reference 'C12'
+    @(61.4420 mm, 154.9750 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(59.1820 mm, 155.8290 mm): Reference 'C12'
+    @(61.5950 mm, 155.8200 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(60.5790 mm, 153.4160 mm): Reference 'R4'
+    @(60.8500 mm, 154.3330 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(60.8500 mm, 152.4990 mm): Segment on F.Silkscreen
+    @(60.5790 mm, 153.4160 mm): Reference 'R4'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(57.0230 mm, 151.7200 mm): Reference 'R6'
+    @(58.9910 mm, 153.4360 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(31.1150 mm, 154.9400 mm): Reference 'R2'
+    @(32.9650 mm, 154.9310 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(31.1150 mm, 154.9400 mm): Reference 'R2'
+    @(33.6830 mm, 154.9310 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(37.4650 mm, 159.5120 mm): Reference 'C2'
+    @(36.6110 mm, 157.5060 mm): Segment on F.Silkscreen
+
+** Found 11 unconnected pads **
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(14.9860 mm, 148.5080 mm): Pad 1 [OUT_BATTN] of R1 on F.Cu
+    @(15.1790 mm, 148.6970 mm): Track [OUT_BATTN] on B.Cu, length 20.2340 mm
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(65.0010 mm, 146.9170 mm): Zone [OUT_BATTN] on F.Cu
+    @(65.0010 mm, 146.9170 mm): Zone [OUT_BATTN] on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(43.5070 mm, 151.1300 mm): Track [OUT_BATTN] on B.Cu, length 6.8250 mm
+    @(42.8280 mm, 155.0670 mm): Pad 2 [OUT_BATTN] of D2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(33.8340 mm, 159.7660 mm): Pad 1 [OUT_BATTN] of R10 on F.Cu
+    @(65.0010 mm, 146.9170 mm): Zone [OUT_BATTN] on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(36.6560 mm, 152.0830 mm): Via [BATTN] on F.Cu - B.Cu
+    @(35.6840 mm, 150.7610 mm): Pad 20 [BATTN] of U1 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(37.5920 mm, 151.5110 mm): Pad 25 [BATTN] of U1 on F.Cu
+    @(3.1750 mm, 146.9390 mm): Zone [BATTN] on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(14.9860 mm, 149.3520 mm): Track [OUT_BATTNK] on F.Cu, length 0.8430 mm
+    @(14.4630 mm, 148.6950 mm): Via [OUT_BATTNK] on F.Cu - B.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(14.9860 mm, 149.3520 mm): Track [OUT_BATTNK] on F.Cu, length 0.8430 mm
+    @(15.1870 mm, 147.9550 mm): Via [OUT_BATTNK] on F.Cu - B.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(15.8750 mm, 147.9550 mm): Via [OUT_BATTNK] on F.Cu - B.Cu
+    @(15.1870 mm, 147.9550 mm): Via [OUT_BATTNK] on F.Cu - B.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(15.8750 mm, 148.7170 mm): Via [OUT_BATTNK] on F.Cu - B.Cu
+    @(15.1790 mm, 148.6960 mm): Via [OUT_BATTNK] on F.Cu - B.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(15.1870 mm, 147.9550 mm): Via [OUT_BATTNK] on F.Cu - B.Cu
+    @(14.4880 mm, 147.9410 mm): Via [OUT_BATTNK] on F.Cu - B.Cu
+
+** Found 0 Footprint errors **
+
+** End of Report **
